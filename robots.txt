@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+
+sitemap:http://www.sivannahealth.com.au/sitemap.xml
